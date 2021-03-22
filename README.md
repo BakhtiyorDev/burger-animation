@@ -1,1 +1,1 @@
-# Simple Burger Animation
+# Burger Animation
